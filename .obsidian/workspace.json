@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ensaio.md",
+                "file": "houston2000/3_Conceitos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ensaio"
+              "title": "3_Conceitos"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "houston2000/4_Análise_crítica.md",
+                "file": "The_Late_Classic_Maya_cities_at_their_height/1_Triagem_inicial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4_Análise_crítica"
+              "title": "1_Triagem_inicial"
             }
           }
         ],
@@ -103,93 +103,10 @@
   "right": {
     "id": "1fa55ea47a7f57e2",
     "type": "split",
-    "children": [
-      {
-        "id": "458f0f25af597958",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9796381529c020d3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "houston2000/4_Análise_crítica.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Links inversos"
-            }
-          },
-          {
-            "id": "ca807ac52c05ee7e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "houston2000/4_Análise_crítica.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Links de saída"
-            }
-          },
-          {
-            "id": "fda92874a5d866b3",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etiquetas"
-            }
-          },
-          {
-            "id": "0a156217e8519473",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "Todas as propriedades"
-            }
-          },
-          {
-            "id": "150d9e62fcdf3dd1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "houston2000/4_Análise_crítica.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Sumário"
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,13 +119,25 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "e0ce322ef40979ef",
+  "active": "47756eb8551001e2",
   "lastOpenFiles": [
+    "The_Late_Classic_Maya_cities_at_their_height/2_Extração_de_Pontos-Chave.md",
+    "The_Late_Classic_Maya_cities_at_their_height/1_Triagem_inicial.md",
+    "Sprajc_Ivan_and_Pedro_Francisco_Sanchez/Esboço_Estruturado.md",
+    "The_Late_Classic_Maya_cities_at_their_height/5_Contribuição_para_arte_e_ciência.md",
+    "The_Late_Classic_Maya_cities_at_their_height/4_Análise_crítica.md",
+    "The_Late_Classic_Maya_cities_at_their_height/3_Conceitos.md",
+    "The_Late_Classic_Maya_cities_at_their_height",
+    "Ensaio.md",
+    "Críticas da carta de intenção.md",
+    "Archaeoastronomy_in_the_ancient_Americas.pdf",
+    "Astronomical_Images_and_Orientations_in.pdf",
+    "Carta de Intenção.pdf",
+    "houston2000/4_Análise_crítica.md",
     "1.zip",
     "Arquivo compactado.zip",
     "Arquivo compactado.zip.gpytm5.part",
     "houston2000/5_Contribuição_para_arte_e_ciência.md",
-    "houston2000/4_Análise_crítica.md",
     "houston2000/3_Conceitos.md",
     "houston2000/2_Extração_de_Pontos-Chave.md",
     "Astronomical_Images_and_Orientations_in/1_Triagem_inicial.md",
@@ -216,7 +145,6 @@
     "Astronomical_Images_and_Orientations_in/4_Análise_crítica.md",
     "Astronomical_Images_and_Orientations_in/3_Conceitos.md",
     "Astronomical_Images_and_Orientations_in/2_Extração_de_Pontos-Chave.md",
-    "Archaeoastronomy_in_the_ancient_Americas.pdf",
     "Archaeoastronomy_in_the_ancient_Americas/5_Contribuição para arte e ciência.md",
     "Archaeoastronomy_in_the_ancient_Americas/4_Análise crítica.md",
     "Archaeoastronomy_in_the_ancient_Americas/3_Conceitos.md",
@@ -226,16 +154,8 @@
     "Sprajc_Ivan_and_Pedro_Francisco_Sanchez/3_Conceitos.md",
     "Sprajc_Ivan_and_Pedro_Francisco_Sanchez/4_Análise_crítica.md",
     "Sprajc_Ivan_and_Pedro_Francisco_Sanchez/5_Contribuição_para_arte_e_ciência.md",
-    "Sprajc_Ivan_and_Pedro_Francisco_Sanchez/1_Triagem_inicial.md",
     "Sprajc_Ivan_and_Pedro_Francisco_Sanchez",
     "Sprajc_Ivan_and_Pedro_Francisco_Sanchez.pdf",
-    "Astronomical_Images_and_Orientations_in",
-    "Astronomical_Images_and_Orientations_in.pdf",
-    "houston2000/1_Triagem_inicial.md",
-    "agent.md",
-    "Críticas da carta de intenção.md",
-    "Carta de Intenção.pdf",
-    "Ensaio.md",
-    "houston2000.pdf"
+    "Astronomical_Images_and_Orientations_in"
   ]
 }
