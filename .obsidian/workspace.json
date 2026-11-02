@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The_Late_Classic_Maya_cities_at_their_height/1_Triagem_inicial.md",
+                "file": "Ensaio/03_Mapa_Bibliografico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1_Triagem_inicial"
+              "title": "03_Mapa_Bibliografico"
             }
           }
         ],
@@ -103,7 +103,91 @@
   "right": {
     "id": "1fa55ea47a7f57e2",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "60974802c46a0daf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d122b804f6ad963e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ensaio/03_Mapa_Bibliografico.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "d4da419e445b9f7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ensaio/03_Mapa_Bibliografico.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "8099a99477021c02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "39a3aa823dd0ece1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "4ec823d9533db0e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ensaio/03_Mapa_Bibliografico.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
@@ -121,41 +205,41 @@
   },
   "active": "47756eb8551001e2",
   "lastOpenFiles": [
+    "Ensaio/02_Analise_das_Criticas.md",
+    "Ensaio/01_Diagnostico_da_Carta.md",
+    "ObsNatMexAstecas/5_Contribuição_para_arte_e_ciência.md",
+    "Ensaio/07_Referencias_e_Auditoria.md",
+    "Ensaio/06_Ensaio_Final.md",
+    "Ensaio/05_Plano_Argumentativo.md",
+    "Ensaio/04_Matriz_de_Evidencias.md",
+    "Ensaio/03_Mapa_Bibliografico.md",
+    "Ensaio",
+    "ObsNatMexAstecas/1_Triagem_inicial.md",
+    "Sprajc_Ivan_and_Pedro_Francisco_Sanchez/5_Contribuição_para_arte_e_ciência.md",
+    "Sprajc_Ivan_and_Pedro_Francisco_Sanchez/Esboço_Estruturado.md",
+    "ObsNatMexAstecas/4_Análise_crítica.md",
+    "ObsNatMexAstecas/3_Conceitos.md",
+    "ObsNatMexAstecas/2_Extração_de_Pontos-Chave.md",
+    "houston2000.pdf",
+    "ObsNatMexAstecas",
+    "ObsNatMexAstecas.pdf",
+    "Sprajc_Ivan_and_Pedro_Francisco_Sanchez.pdf",
+    "Carta de Intenção.pdf",
+    "Archaeoastronomy_in_the_ancient_Americas.pdf",
+    "Astronomical_Images_and_Orientations_in.pdf",
+    "The_Late_Classic_Maya_cities_at_their_height/3_Conceitos.md",
+    "The_Late_Classic_Maya_cities_at_their_height/4_Análise_crítica.md",
+    "The_Late_Classic_Maya_cities_at_their_height/5_Contribuição_para_arte_e_ciência.md",
     "The_Late_Classic_Maya_cities_at_their_height/2_Extração_de_Pontos-Chave.md",
     "The_Late_Classic_Maya_cities_at_their_height/1_Triagem_inicial.md",
-    "Sprajc_Ivan_and_Pedro_Francisco_Sanchez/Esboço_Estruturado.md",
-    "The_Late_Classic_Maya_cities_at_their_height/5_Contribuição_para_arte_e_ciência.md",
-    "The_Late_Classic_Maya_cities_at_their_height/4_Análise_crítica.md",
-    "The_Late_Classic_Maya_cities_at_their_height/3_Conceitos.md",
     "The_Late_Classic_Maya_cities_at_their_height",
     "Ensaio.md",
     "Críticas da carta de intenção.md",
-    "Archaeoastronomy_in_the_ancient_Americas.pdf",
-    "Astronomical_Images_and_Orientations_in.pdf",
-    "Carta de Intenção.pdf",
     "houston2000/4_Análise_crítica.md",
     "1.zip",
-    "Arquivo compactado.zip",
-    "Arquivo compactado.zip.gpytm5.part",
     "houston2000/5_Contribuição_para_arte_e_ciência.md",
     "houston2000/3_Conceitos.md",
     "houston2000/2_Extração_de_Pontos-Chave.md",
-    "Astronomical_Images_and_Orientations_in/1_Triagem_inicial.md",
-    "Astronomical_Images_and_Orientations_in/5_Contribuição_para_arte_e_ciência.md",
-    "Astronomical_Images_and_Orientations_in/4_Análise_crítica.md",
-    "Astronomical_Images_and_Orientations_in/3_Conceitos.md",
-    "Astronomical_Images_and_Orientations_in/2_Extração_de_Pontos-Chave.md",
-    "Archaeoastronomy_in_the_ancient_Americas/5_Contribuição para arte e ciência.md",
-    "Archaeoastronomy_in_the_ancient_Americas/4_Análise crítica.md",
-    "Archaeoastronomy_in_the_ancient_Americas/3_Conceitos.md",
-    "Archaeoastronomy_in_the_ancient_Americas/2_Extração de Pontos-Chave.md",
-    "Archaeoastronomy_in_the_ancient_Americas/1_Triagem inicial.md",
-    "Sprajc_Ivan_and_Pedro_Francisco_Sanchez/2_Extração_de_Pontos-Chave.md",
-    "Sprajc_Ivan_and_Pedro_Francisco_Sanchez/3_Conceitos.md",
-    "Sprajc_Ivan_and_Pedro_Francisco_Sanchez/4_Análise_crítica.md",
-    "Sprajc_Ivan_and_Pedro_Francisco_Sanchez/5_Contribuição_para_arte_e_ciência.md",
-    "Sprajc_Ivan_and_Pedro_Francisco_Sanchez",
-    "Sprajc_Ivan_and_Pedro_Francisco_Sanchez.pdf",
-    "Astronomical_Images_and_Orientations_in"
+    "Astronomical_Images_and_Orientations_in/1_Triagem_inicial.md"
   ]
 }

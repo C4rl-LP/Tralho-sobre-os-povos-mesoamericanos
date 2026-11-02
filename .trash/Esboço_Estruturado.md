@@ -1,4 +1,4 @@
-# Esboço Estruturado do Ensaio
+ Esboço Estruturado do Ensaio
 
 ## Recorte bibliográfico
 
