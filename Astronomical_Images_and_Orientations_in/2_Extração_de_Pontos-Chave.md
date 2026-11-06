@@ -67,3 +67,7 @@ Demonstrar que as orientações astronômicas dos edifícios de Chichén Itzá �
 ## Resumo Executivo
 
 Susan Milbrath demonstra que os edifícios cerimoniais de Chichén Itzá — o Castillo, o Templo Superior e Inferior dos Jaguares, o Templo dos Guerreiros e o Caracol — possuem orientações astronômicas deliberadas para o pôr do sol zenital (~292°), o nascer do sol nadiral (~111°) e o ocaso das Plêiades (~286°–290°). Sua contribuição mais original é a identificação de uma correlação cíclica de oito anos entre a conjunção de Vênus com as Plêiades e o início da estação chuvosa, padrão que estava "previously unrecognized" na literatura. Esse padrão é reforçado pela iconografia da serpente emplumada com chocalho de cascavel — fusão de Vênus (Kukulcán/Quetzalcóatl) e das Plêiades (*tzab*) — presente nas colunas dos templos alinhados a essas posições celestes. A análise se estende a sítios como Teotihuacán, Xochicalco e Copán, sugerindo que os astrônomos-sacerdotes mesoamericanos codificaram desde o período Clássico Inicial um complexo simbólico que vinculava Vênus, as Plêiades, a estação chuvosa e o milho em orientações arquitetônicas e programas iconográficos pan-regionais.
+
+## Conexões no cofre
+
+Fonte original: [[Astronomical_Images_and_Orientations_in.pdf]] · [[Referências/Milbrath (1988)|Milbrath (1988)]]. Evidência aplicada em [[Estudos de caso/Chichén Itzá — Castillo|Castillo]]: [[Ensaio/maias#Castillo de Kukulcán: arquitetura, luz e hipótese calendárica|caso do Castillo]].

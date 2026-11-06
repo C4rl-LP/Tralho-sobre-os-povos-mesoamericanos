@@ -14,7 +14,7 @@ MONTEFERRANTE, Sandra. Maya Cycles of Time: Maya Number System. *Convergence*, M
 
 ŠPRAJC, Ivan; SÁNCHEZ NAVA, Pedro Francisco. Astronomía en la arquitectura de Chichén Itzá: una reevaluación. *Estudios de Cultura Maya*, v. 41, p. 31–60, 2013. DOI: 10.19130/iifl.ecm.2013.41.153.
 
-PEREIRA, Carlos E. L.; OLIVEIRA, David F. *A arte e a ciência como conhecimentos transdisciplinares na sociedade Maia: Carta de Intenção*. Documento do projeto, 2 p., s.d. [PDF fornecido no diretório].
+PEREIRA, Carlos E. L.; OLIVEIRA, David F. *A arte e a ciência como conhecimentos transdisciplinares na sociedade Maia: Carta de Intenção*. Documento do projeto, 2 p., s.d. [PDF fornecido no diretório].]
 
 CRÍTICAS DA CARTA DE INTENÇÃO. Arquivo Markdown do projeto, s.d.
 

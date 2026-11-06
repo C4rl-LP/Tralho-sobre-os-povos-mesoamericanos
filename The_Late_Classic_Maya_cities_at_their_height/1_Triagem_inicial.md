@@ -15,3 +15,7 @@
 O recorte é pertinente para história da arte mesoamericana porque o livro se apresenta como estudo de arte e arquitetura pré-hispânicas e seu sumário identifica um capítulo específico sobre cidades maias do Clássico Tardio. A página editorial confirma que a obra examina palácios, pirâmides, esculturas e pinturas; essa descrição é da obra como um todo, não evidência de que cada tema apareça neste capítulo. [Google Books, descrição e sumário](https://books.google.com/books?id=wtfBDwAAQBAJ).
 
 **Evidência textual primária disponível:** “Late Classic: Maya cities at their height” (título do capítulo, edição de 2019, p. 153; [sumário](https://www.betterworldbooks.com/product/detail/the-art-of-mesoamerica-from-olmec-to-aztec-9780500204504/ebook)). Não atribuo achados ou conclusões à autora sem o texto do capítulo.
+
+## Conexões no cofre
+
+Referência: [[Ensaio/03_Mapa_Bibliografico#Inventário efetivamente encontrado|registro de disponibilidade]] · [[Mapa de Conhecimento]]. Aplicação no argumento: [[Ensaio/05_Plano_Argumentativo|plano argumentativo]].

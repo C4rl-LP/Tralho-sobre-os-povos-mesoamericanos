@@ -61,3 +61,7 @@ Esta aplicação é uma possibilidade interpretativa derivada dos resultados do 
 ## Síntese
 
 O principal aporte do estudo é mostrar, com medições e comparação regional, como as orientações arquitetônicas podiam participar de calendários observacionais ligados à agricultura e aos ritos. Ao mesmo tempo, os autores situam a astronomia em uma rede de significados sociais, religiosos e políticos. Para estudos de arte e cultura material, isso oferece um modo de interpretar forma, orientação e efeitos visuais em conjunto com evidências históricas e contextuais, reconhecendo que algumas reconstruções — como o calendário específico proposto para Chichén Itzá — permanecem hipotéticas (Discusión, pág. 53; Comentarios finales, pág. 55).
+
+## Conexões no cofre
+
+Contribuição usada em [[Estudos de caso/Chichén Itzá — Castillo|Castillo]] e no argumento [[Ensaio/maias#Castillo de Kukulcán: arquitetura, luz e hipótese calendárica|caso do Castillo]]. Relaciona-se a [[Conceitos/Calendário observacional|calendário observacional]]; fonte: [[Referências/Šprajc e Sánchez Nava (2013)|Šprajc e Sánchez Nava (2013)]].

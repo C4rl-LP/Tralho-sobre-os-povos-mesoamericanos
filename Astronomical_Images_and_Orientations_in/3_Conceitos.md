@@ -82,3 +82,7 @@ Conceito que descreve a associação simbólica e calendárica entre o planeta V
 ### Explicação simples / Analogia
 
 Pense num agricultor que, antes de existir serviço meteorológico, precisava saber quando plantar. Ele observava dois "sinais" no céu ao entardecer: Vênus brilhando baixo no horizonte e as Plêiades descendo logo acima. Quando esses dois astros apareciam juntos no poente na primavera, ele sabia que as chuvas viriam em breve e era hora de plantar o milho. Esse "alarme celeste" duplo — Vênus + Plêiades = chuva = plantio — foi codificado pelos mesoamericanos em templos, esculturas e códices durante milênios.
+
+## Conexões no cofre
+
+Referência e PDF: [[Referências/Milbrath (1988)|Milbrath (1988)]] · [[Astronomical_Images_and_Orientations_in.pdf]]. Conceitos transversais: [[Conceitos/Arqueoastronomia contextual|arqueoastronomia contextual]]. Argumento relacionado: [[Ensaio/maias#Castillo de Kukulcán: arquitetura, luz e hipótese calendárica|caso do Castillo]].

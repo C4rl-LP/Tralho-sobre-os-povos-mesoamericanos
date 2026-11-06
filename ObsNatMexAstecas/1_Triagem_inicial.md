@@ -21,3 +21,7 @@ O capítulo é uma síntese interpretativa, não um relatório de um único sít
 ### Tese em contexto
 
 A tese não é que a ciência mesoamericana fosse idêntica à moderna. A autora ressalta que “las ciencias no se habían separado de las otras esferas de la sociedad” (Conclusões, pág. 128). Seu critério central é procurar observação repetida, conhecimento empírico e aplicação social no contexto histórico próprio. Ao mesmo tempo, a Conquista produziu uma ruptura institucional e documental: “La Conquista produjo una ruptura profunda” (Considerações gerais, pág. 104), o que condiciona a reconstrução atual.
+
+## Conexões no cofre
+
+Referência: [[Referências/Broda (2012)|Broda (2012)]] · [[Mapa de Conhecimento]]. Aplicação no argumento: [[Ensaio/maias#Marco teórico: observação da natureza, instituição e contexto cultural|marco teórico]].

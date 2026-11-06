@@ -79,3 +79,7 @@ Termo introduzido pelos autores para designar o nível de reflexão cultural sob
 ### Explicação Simples / Analogia
 
 Quando você diz "o pôr do sol é vermelho", não está descrevendo sua experiência subjetiva interna do vermelho (que é impossível de comunicar diretamente), mas usando uma **etiqueta cultural** para categorizar aquela sensação. Os meta-sentidos são essas etiquetas: as regras e convenções que cada cultura cria para falar *sobre* as sensações. Os Maias tinham um sistema meta-sensorial extremamente rico, onde volutas, flores e globos oculares funcionavam como uma "linguagem visual dos sentidos" — não as sensações em si, mas o mapa cultural delas.
+
+## Conexões no cofre
+
+Referência e PDF: [[Referências/Houston e Taube (2000)|Houston e Taube (2000)]] · [[houston2000.pdf]]. Conceitos transversais: [[Conceitos/Estética da Exatidão|Estética da Exatidão]]. Argumento relacionado: [[Ensaio/maias#Murais de Bonampak: narrativa, percepção e poder|caso de Bonampak]].

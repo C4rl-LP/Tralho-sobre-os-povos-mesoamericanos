@@ -101,3 +101,7 @@ O artigo trata quase exclusivamente de figuras masculinas (governantes, guerreir
 ### Conclusão sobre a validade:
 
 As conclusões centrais do artigo — a existência de um sistema sinestésico graficamente codificado, a concepção projetiva dos sentidos e a identificação sopro-alma-flor — são **bem sustentadas e convincentes**. As conclusões de nível mais abstrato (monismo, fenomenologia arquitetônica) são **sugestivas e estimulantes**, mas requerem evidências adicionais e testes empíricos que o próprio artigo incentiva.
+
+## Conexões no cofre
+
+A crítica à interpretação dialoga com [[Revisão acadêmica#Questões de paginação a conferir no PDF|pendência de paginação]]. Consulte também [[Referências/Houston e Taube (2000)|Houston e Taube (2000)]] e [[Ensaio/maias#Murais de Bonampak: narrativa, percepção e poder|caso de Bonampak]].

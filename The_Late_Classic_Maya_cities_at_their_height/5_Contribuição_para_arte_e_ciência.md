@@ -21,3 +21,7 @@ Para exposições ou projetos artísticos, recomenda-se consultar o capítulo e 
 ## O que falta para completar a análise
 
 É necessário obter o capítulo 7 da edição escolhida — idealmente PDF ou fotografias legíveis das páginas 153 em diante. Com o texto, será possível substituir este relatório de escopo por uma análise de objetivos, método, achados, conceitos, limitações e aplicações, sempre com citações curtas e paginação verificável.
+
+## Conexões no cofre
+
+Contribuição usada em [[Conceitos/Periodização maia|periodização maia]] e no argumento [[Ensaio/05_Plano_Argumentativo|plano argumentativo]]. Relaciona-se a [[Ensaio/03_Mapa_Bibliografico#Lacunas documentais|limite documental]]; fonte: [[Ensaio/03_Mapa_Bibliografico#Inventário efetivamente encontrado|registro de disponibilidade]].

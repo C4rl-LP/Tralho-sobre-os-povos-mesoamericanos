@@ -104,3 +104,7 @@ O mapeamento completo da cadeia sopro–alma–flor–jade–morte oferece uma n
 > "In Mesoamerica, the dead are 'fed' with fragrance, whether it be in the form of incense, flowers, or the aroma of cooked food." (pág. 271)
 
 **Aplicação:** Arqueólogos e curadores podem reinterpretar coleções funerárias existentes à luz desse modelo integrado, gerando novas narrativas expositivas e novas publicações que recontextualizem artefatos antes catalogados como mero "acompanhamento funerário" dentro de um quadro conceitual coerente sobre a sobrevivência da alma e o papel dos sentidos na transição entre vida e morte.
+
+## Conexões no cofre
+
+Contribuição usada em [[Estudos de caso/Bonampak|Bonampak]] e no argumento [[Ensaio/maias#Murais de Bonampak: narrativa, percepção e poder|caso de Bonampak]]. Relaciona-se a [[Conceitos/Estética da Exatidão|Estética da Exatidão]]; fonte: [[Referências/Houston e Taube (2000)|Houston e Taube (2000)]].

@@ -59,3 +59,7 @@ O estudo emprega uma abordagem **qualitativa, comparativa e iconográfica/epigr�
 ## Resumo Executivo
 
 Houston e Taube demonstram que os antigos mesoamericanos — com destaque para os Maias Clássicos — desenvolveram um elaborado sistema gráfico sinestésico para representar olfato, audição e visão, expresso por volutas de fala, signos de vento (*ik'*), flores, jade e globos oculares projetivos. Esses dispositivos revelam que os sentidos eram concebidos como forças **projetivas, criativas e moralmente carregadas**, não como recepções passivas. O sopro era a alma, a fala era poder solar, e a visão emanava do olho como força procriativa. O conceito de *y-ichnal* demonstra que a visão periférica e binocular do governante constituía um campo moral e ritual que validava eventos políticos. A arte maia, com suas linhas sinuosas, era ela mesma uma codificação visual dos sentidos, materializando o imaterial. Os autores propõem que essa cosmovisão reflete um **monismo profundo** — a crença de que entidades materiais e imateriais compartilhavam uma vitalidade carregada — e defendem a viabilidade de uma "arqueologia dos sentidos" que reconstrua a fenomenologia de civilizações antigas a partir de seus registros gráficos e textuais.
+
+## Conexões no cofre
+
+Fonte original: [[houston2000.pdf]] · [[Referências/Houston e Taube (2000)|Houston e Taube (2000)]]. Evidência aplicada em [[Estudos de caso/Bonampak|Bonampak]]: [[Ensaio/maias#Murais de Bonampak: narrativa, percepção e poder|caso de Bonampak]].

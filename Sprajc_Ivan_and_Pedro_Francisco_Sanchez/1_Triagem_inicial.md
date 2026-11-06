@@ -31,3 +31,7 @@ Os edifícios de Chichén Itzá foram orientados para registrar nascentes e poen
 
 5. **Refutação da hipótese do nadir solar:** Os autores demonstram que não há concentração estatística de orientações ao redor do nadir solar na amostra regional, desautorizando uma hipótese influente de Milbrath (1988):
    > "No sólo la hipótesis sobre la importancia del Sol anticenital, sino también la idea de que muchos edificios mesoamericanos registraban las puestas del Sol en los días de su paso por el cenit, muy arraigada y popular desde épocas incipientes del estudio de orientaciones, carece de sustento en nuestros datos." (Seção "El Castillo", pág. 42)
+
+## Conexões no cofre
+
+Referência: [[Referências/Šprajc e Sánchez Nava (2013)|Šprajc e Sánchez Nava (2013)]] · [[Mapa de Conhecimento]]. Aplicação no argumento: [[Ensaio/maias#Castillo de Kukulcán: arquitetura, luz e hipótese calendárica|caso do Castillo]].

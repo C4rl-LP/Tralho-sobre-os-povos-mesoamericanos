@@ -35,3 +35,7 @@ Por exemplo:
 **movimento do Sol → observação astronômica → orientação de um templo → efeito de luz/sombra → ritual coletivo e legitimação de poder.**
 
 Essa cadeia é provavelmente a melhor contribuição prática do artigo para o seu tema, porque mostra **como ciência pode entrar materialmente na produção artística sem que a obra deixe de ser simbólica ou estética**.
+
+## Conexões no cofre
+
+Contribuição usada em [[Estudos de caso/Chichén Itzá — Castillo|Castillo]] e no argumento [[Ensaio/maias#Marco teórico: observação da natureza, instituição e contexto cultural|marco teórico]]. Relaciona-se a [[Conceitos/Arqueoastronomia contextual|arqueoastronomia contextual]]; fonte: [[Referências/Aveni (2003)|Aveni (2003)]].

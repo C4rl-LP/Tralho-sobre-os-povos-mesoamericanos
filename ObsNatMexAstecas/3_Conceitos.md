@@ -47,3 +47,7 @@
 **Definição formal e trecho do artigo:** a cosmovisão combina noções ambientais e cosmológicas (definição na seção 2c, pág. 107), mas o texto insiste que observação e mito podem coexistir. Broda afirma que “la observación precisa [...] se entremezclaba [...] con el mito y la magia” (seção 2c, pág. 109).
 
 **Explicação simples / analogia:** um mesmo fenômeno pode ser observado com precisão prática e, ao mesmo tempo, receber uma explicação religiosa ou simbólica — como reconhecer a chegada das chuvas e também interpretá-la por meio de narrativas sagradas.
+
+## Conexões no cofre
+
+Referência e PDF: [[Referências/Broda (2012)|Broda (2012)]] · [[ObsNatMexAstecas.pdf]]. Conceitos transversais: [[Conceitos/Observação da natureza|observação da natureza]]. Argumento relacionado: [[Ensaio/maias#Marco teórico: observação da natureza, instituição e contexto cultural|marco teórico]].

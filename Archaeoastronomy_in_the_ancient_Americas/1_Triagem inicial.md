@@ -28,6 +28,7 @@ Analise o [[Archaeoastronomy_in_the_ancient_Americas.pdf]] e me dê uma visão g
 	
 	Por exemplo, uma pirâmide maia alinhada com o nascer do Sol poderia simultaneamente indicar uma época do calendário agrícola e servir como cenário para cerimônias públicas que reforçavam a autoridade dos governantes.
 	O artigo é relevante para a relação entre arte e ciência porque mostra que, nas sociedades maias antigas, observação astronômica, arquitetura, simbolismo e ritual frequentemente faziam parte de uma mesma prática cultural, tornando inadequada uma separação rígida entre conhecimento científico e expressão artística.
-	
 
+## Conexões no cofre
 
+Referência: [[Referências/Aveni (2003)|Aveni (2003)]] · [[Mapa de Conhecimento]]. Aplicação no argumento: [[Ensaio/maias#Marco teórico: observação da natureza, instituição e contexto cultural|marco teórico]].

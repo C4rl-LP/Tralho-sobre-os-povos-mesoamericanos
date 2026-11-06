@@ -48,3 +48,7 @@ Portanto, eu classificaria o argumento do artigo assim:
 “Este edifício específico foi projetado para este evento astronômico específico e por esta razão cultural específica.”
 
 Para o seu interesse em **arte e ciência**, essa distinção é especialmente importante. O artigo oferece evidência convincente de que práticas hoje classificadas separadamente como ciência, arquitetura, religião e expressão simbólica podiam estar integradas. Mas seria um passo além das evidências afirmar que isso demonstra uma identidade geral entre “arte” e “ciência”. O artigo sustenta melhor uma **interação histórica entre práticas técnicas e simbólicas** do que uma equivalência conceitual entre as duas.
+
+## Conexões no cofre
+
+A crítica à interpretação dialoga com [[Revisão acadêmica#Limites documentais que devem permanecer visíveis|limites documentais]]. Consulte também [[Referências/Aveni (2003)|Aveni (2003)]] e [[Ensaio/maias#Marco teórico: observação da natureza, instituição e contexto cultural|marco teórico]].

@@ -87,3 +87,7 @@ A reinterpretação da serpente emplumada com chocalho como ícone astronômico 
 ### 5. Instrumentos educacionais para ensino de astronomia posicional
 
 O artigo oferece um caso pedagógico excelente para ensinar conceitos como azimute, zênite, nadir, eclíptica, precessão e período sinódico de Vênus a partir de um contexto cultural concreto, potencialmente mais engajante do que exemplos puramente físico-matemáticos. As Tabelas 1 e 2 podem ser adaptadas como exercícios práticos em cursos de astronomia cultural ou história da ciência.
+
+## Conexões no cofre
+
+Contribuição usada em [[Estudos de caso/Chichén Itzá — Castillo|Castillo]] e no argumento [[Ensaio/maias#Castillo de Kukulcán: arquitetura, luz e hipótese calendárica|caso do Castillo]]. Relaciona-se a [[Conceitos/Arqueoastronomia contextual|arqueoastronomia contextual]]; fonte: [[Referências/Milbrath (1988)|Milbrath (1988)]].

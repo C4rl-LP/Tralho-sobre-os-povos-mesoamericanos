@@ -1,5 +1,5 @@
   - **Objetivo principal:** 
-	Revisar o desenvolvimento da [[Archaeoastronomy_in_the_ancient_Americas/3_Conceitos#**1. Arqueoastronomia**| arqueoastronomia]] nas Américas e mostrar como evidências arqueológicas podem revelar de que modo observações celestes, calendários, arquitetura, ritual e organização social estavam relacionados nas sociedades antigas.
+	Revisar o desenvolvimento da [[Archaeoastronomy_in_the_ancient_Americas/3_Conceitos#1. Arqueoastronomia| arqueoastronomia]] nas Américas e mostrar como evidências arqueológicas podem revelar de que modo observações celestes, calendários, arquitetura, ritual e organização social estavam relacionados nas sociedades antigas.
   - **Metodologia/Abordagem:** 
 	  O artigo é uma **revisão crítica da literatura**, não um estudo experimental único. Aveni combina resultados de arqueologia, astronomia de posição, etno-história, iconografia e etnografia, usando estudos de caso da Mesoamérica, Andes e América do Norte. A análise enfatiza orientações arquitetônicas e alinhamentos celestes, mas exige que esses dados sejam confrontados com evidências culturais independentes, evitando interpretar automaticamente qualquer alinhamento como astronômico.
   - **Principais Achados:** 
@@ -12,3 +12,7 @@
 	  - **Ambiguidade dos alinhamentos:** diferentes pontos de observação e inúmeras direções possíveis podem produzir correspondências astronômicas por acaso. Portanto, precisão geométrica ou significância estatística isoladamente não demonstram intenção astronômica. 
 	- **Registro histórico incompleto:** em algumas regiões faltam textos decifrados ou documentação suficiente. O próprio Aveni aponta que a curta duração do Império Inca e a ausência de um registro escrito decifrado dificultam reconstruir mudanças culturais; problemas semelhantes aparecem na América do Norte. 
 - **Conclusão:** A arqueoastronomia é mais produtiva quando trata a observação celeste não como uma atividade técnica isolada, mas como parte de sistemas culturais nos quais **tempo, arquitetura, ritual, cosmologia e poder estavam integrados**.
+
+## Conexões no cofre
+
+Fonte original: [[Archaeoastronomy_in_the_ancient_Americas.pdf]] · [[Referências/Aveni (2003)|Aveni (2003)]]. Evidência aplicada em [[Estudos de caso/Chichén Itzá — Castillo|Castillo]]: [[Ensaio/maias#Marco teórico: observação da natureza, instituição e contexto cultural|marco teórico]].

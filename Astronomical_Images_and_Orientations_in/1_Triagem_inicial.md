@@ -30,3 +30,7 @@ Os edifícios de Chichén Itzá foram deliberadamente orientados para o pôr do 
    > "Ancient priest-astronomers probably encoded a pattern linking Venus, the Pleiades and the rainy season in iconography and orientations of Venus temples throughout Mesoamerica." (Seção "Pleiades–Venus Orientations in Mesoamerica", pág. 72)
 
 5. **Contribuição para o debate cronológico de Chichén Itzá:** Embora não resolva a questão da cronologia, o estudo contorna o problema ao se basear em ciclos celestes repetitivos, tornando a análise válida independentemente da datação exata dos edifícios.
+
+## Conexões no cofre
+
+Referência: [[Referências/Milbrath (1988)|Milbrath (1988)]] · [[Mapa de Conhecimento]]. Aplicação no argumento: [[Ensaio/maias#Castillo de Kukulcán: arquitetura, luz e hipótese calendárica|caso do Castillo]].

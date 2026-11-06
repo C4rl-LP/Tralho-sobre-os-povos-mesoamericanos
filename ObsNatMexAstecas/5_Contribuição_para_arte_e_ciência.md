@@ -25,3 +25,7 @@
 ### Cuidado de interpretação
 
 Aplicações artísticas e educativas devem explicitar o que é dado arqueológico, o que é interpretação acadêmica e o que é criação contemporânea. Esse cuidado é especialmente pertinente porque a autora propõe uma história ainda em construção: investigar “sus métodos de observación, sus construcciones teóricas y el desarrollo de las matemáticas” (Conclusões, pág. 129). A dimensão prática do capítulo é, portanto, tanto um repertório de temas quanto um convite a novas pesquisas verificáveis.
+
+## Conexões no cofre
+
+Contribuição usada em [[Estudos de caso/Códice de Dresden|Códice de Dresden]] e no argumento [[Ensaio/maias#Marco teórico: observação da natureza, instituição e contexto cultural|marco teórico]]. Relaciona-se a [[Conceitos/Observação da natureza|observação da natureza]]; fonte: [[Referências/Broda (2012)|Broda (2012)]].

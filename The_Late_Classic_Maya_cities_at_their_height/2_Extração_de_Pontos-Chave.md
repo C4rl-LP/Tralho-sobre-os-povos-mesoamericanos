@@ -17,3 +17,7 @@ A obra é um levantamento histórico-artístico ilustrado, mas a metodologia usa
 ## Resumo executivo
 
 As fontes abertas permitem identificar a obra, o capítulo, sua posição e a página inicial em uma edição, mas não permitem ler o capítulo nem confirmar seus argumentos. Este arquivo registra somente fatos bibliográficos verificáveis e deixa os achados em aberto. Para uma síntese acadêmica com evidências diretas do próprio capítulo, é necessário disponibilizar o texto ou imagens das páginas relevantes.
+
+## Conexões no cofre
+
+Fonte original: PDF original não localizado · [[Ensaio/03_Mapa_Bibliografico#Inventário efetivamente encontrado|registro de disponibilidade]]. Evidência aplicada em [[Conceitos/Periodização maia|periodização maia]]: [[Ensaio/05_Plano_Argumentativo|plano argumentativo]].

@@ -38,3 +38,7 @@ As conclusões são sustentadas como uma interpretação histórica geral por m�
 - **Plausíveis, mas interpretativas:** a função calendárica de alinhamentos e santuários. A evidência arqueoastronômica é cumulativa, porém a própria autora diz que métodos e instrumentos requerem pesquisa adicional (pág. 117).
 - **Explicitamente em debate:** a gênese do ciclo de 260 dias e a hipótese de sua origem em Izapa; Broda nota que “no existe común acuerdo entre los estudiosos” sobre esse ponto (seção 3a, pág. 116).
 - **Limite da generalização:** a proposta de uma herança compartilhada por Mesoamérica é sustentada por distribuição regional de evidências, mas a autora reconhece fronteiras culturais “fluctuantes” (seção 3, pág. 112). A unidade deve, assim, ser entendida como hipótese histórico-cultural útil, não uniformidade absoluta.
+
+## Conexões no cofre
+
+A crítica à interpretação dialoga com [[Revisão acadêmica#Limites documentais que devem permanecer visíveis|limite da transferência comparativa]]. Consulte também [[Referências/Broda (2012)|Broda (2012)]] e [[Ensaio/maias#Marco teórico: observação da natureza, instituição e contexto cultural|marco teórico]].

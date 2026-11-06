@@ -1,0 +1,147 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.11.2)  6 NOV 2026 17:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**maias.tex
+(./maias.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-03-20>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen150
+)
+(/usr/share/texlive/texmf-dist/tex/latex-dev/tools/indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+)
+
+! LaTeX Error: File `geometry.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+(/usr/share/texlive/texmf-dist/tex/latex-dev/tools/verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks17
+\verbatim@line=\toks18
+\verbatim@in@stream=\read2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count283
+)
+(./maias.aux)
+\openout1 = `maias.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 22.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (7.35123pt too wide) in paragraph at lines 36--37
+[]\OT1/cmr/m/n/10.95 Para de-sen-volver essa in-ves-tiga^^Xc~ao, s~ao anal-isa-
+dos tr^es ca-sos: o Castillo
+ []
+
+[2]
+Overfull \hbox (11.88219pt too wide) in paragraph at lines 46--47
+[]\OT1/cmr/m/n/10.95 A con-sequ^encia metodol^^Sogica dessa per-spec-tiva, con-
+tudo, n~ao ^^Se declarar
+ []
+
+[3]
+Overfull \hbox (0.34668pt too wide) in paragraph at lines 62--63
+\OT1/cmr/m/n/10.95 aux-il-iar o acom-pan-hamento do deslo-ca-mento do ano sazon
+al e a pro-grama^^Xc~ao
+ []
+
+[4] [5] [6{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.
+enc}] [7] [8]
+Overfull \hbox (8.52876pt too wide) in paragraph at lines 99--100
+\OT1/cmr/m/n/10.95 con-junto de fer-ra-men-tas des-ti-nadas ^^Ra res-olu^^Xc~ao
+ de prob-le-mas pr^^Saticos, deixare-
+ []
+
+[9] [10] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 118--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+
+ []
+
+
+Overfull \hbox (10.03897pt too wide) in paragraph at lines 124--126
+\OT1/cmr/m/it/10.95 i-cal Jour-nal\OT1/cmr/m/n/10.95 , v. 10, n. 2, p. 261--294
+, 2000. DOI: 10.1017/S095977430000010X. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--132
+
+ []
+
+[12] (./maias.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-03-20>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 533 strings out of 469652
+ 9855 string characters out of 5475536
+ 446951 words of memory out of 6000000
+ 29125 multiletter control sequences out of 15000+600000
+ 632665 words of font info for 56 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 35i,5n,38p,1671b,161s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+!pdfTeX error: pdflatex (file cmti10): Font cmti10 at 657 not found
+ ==> Fatal error occurred, no output PDF file produced!

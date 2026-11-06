@@ -95,3 +95,7 @@ A Cerimônia do Fogo Novo asteca e o nadir solar na latitude de Tenochtitlán s�
 ### Avaliação geral:
 
 O núcleo factual do artigo — azimutes, posições celestes e dados linguísticos — é sólido. As interpretações iconográficas e as extensões pan-mesoamericanas são plausíveis e fecundas, mas permanecem no terreno da hipótese.
+
+## Conexões no cofre
+
+A crítica à interpretação dialoga com [[Referências/Šprajc e Sánchez Nava (2013)|reavaliação de Šprajc e Sánchez Nava]]. Consulte também [[Referências/Milbrath (1988)|Milbrath (1988)]] e [[Ensaio/maias#Castillo de Kukulcán: arquitetura, luz e hipótese calendárica|caso do Castillo]].

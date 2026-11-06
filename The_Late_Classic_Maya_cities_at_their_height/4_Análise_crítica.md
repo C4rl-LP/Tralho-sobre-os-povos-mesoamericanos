@@ -21,3 +21,7 @@ Não há base para identificar vieses argumentativos do capítulo sem lê-lo. Co
 ## Validade das conclusões
 
 Nenhuma conclusão substantiva pode ser avaliada sem acesso às alegações e às evidências do capítulo. A validade bibliográfica do recorte — título, número e localização aproximada — é confirmada pelos sumários consultados. A validade de qualquer interpretação histórica ou artística permanece **não avaliada**, e não deve ser preenchida por conjectura ou por resumos secundários apresentados como se fossem palavras de Miller.
+
+## Conexões no cofre
+
+A crítica à interpretação dialoga com [[Revisão acadêmica#Limites documentais que devem permanecer visíveis|não usar como evidência primária]]. Consulte também [[Ensaio/03_Mapa_Bibliografico#Inventário efetivamente encontrado|registro de disponibilidade]] e [[Ensaio/05_Plano_Argumentativo|plano argumentativo]].

@@ -108,3 +108,7 @@ Além dessas, podemos identificar:
 ### Avaliação geral:
 
 O artigo é metodologicamente exemplar na obtenção e tratamento de dados, e suas refutações de interpretações anteriores são bem fundamentadas. A proposta positiva (calendários observacionais) é plausível e elegante, mas permanece parcialmente hipotética. A principal fragilidade é a exclusão quase total de Vênus e das estrelas da análise, o que pode criar um quadro incompleto da motivação astronômica dos construtores.
+
+## Conexões no cofre
+
+A crítica à interpretação dialoga com [[Referências/Milbrath (1988)|diálogo com Milbrath]]. Consulte também [[Referências/Šprajc e Sánchez Nava (2013)|Šprajc e Sánchez Nava (2013)]] e [[Ensaio/maias#Castillo de Kukulcán: arquitetura, luz e hipótese calendárica|caso do Castillo]].

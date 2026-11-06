@@ -29,3 +29,7 @@
 ### Nota para completar
 
 Com o capítulo em mãos, substituir estas definições provisórias por conceitos efetivamente usados por Miller, incluindo passagens curtas com página. Não tomar o título como evidência de uma tese.
+
+## Conexões no cofre
+
+Referência e PDF: [[Ensaio/03_Mapa_Bibliografico#Inventário efetivamente encontrado|registro de disponibilidade]] · PDF original não localizado. Conceitos transversais: [[Ensaio/03_Mapa_Bibliografico#Lacunas documentais|limite documental]]. Argumento relacionado: [[Ensaio/05_Plano_Argumentativo|plano argumentativo]].

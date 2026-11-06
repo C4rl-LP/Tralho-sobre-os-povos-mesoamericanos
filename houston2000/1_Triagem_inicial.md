@@ -32,3 +32,7 @@ Este trabalho é altamente relevante por múltiplas razões:
 
 4. **Implicações para arquitetura e acústica:** O artigo abre caminho para estudos colaborativos entre maianistas e engenheiros acústicos, sugerindo que os Maias manipulavam deliberadamente as propriedades sonoras dos edifícios.
    > "archaeologists need to pay more attention to the acoustics of buildings, especially palaces." (pág. 280)
+
+## Conexões no cofre
+
+Referência: [[Referências/Houston e Taube (2000)|Houston e Taube (2000)]] · [[Mapa de Conhecimento]]. Aplicação no argumento: [[Ensaio/maias#Murais de Bonampak: narrativa, percepção e poder|caso de Bonampak]].

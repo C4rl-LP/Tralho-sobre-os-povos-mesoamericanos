@@ -71,3 +71,7 @@ A direção (leste ou oeste) na qual a orientação de um edifício efetivamente
 ### Explicação simples / Analogia
 
 Imagine que você alinha uma casa no sentido leste-oeste. Automaticamente, ela "aponta" para dois nascer e dois pôr do sol ao longo do ano — mas isso não significa que os construtores se importassem com os quatro eventos. É como uma flecha de duas pontas: embora aponte para dois lados, a mira estava em apenas um alvo. Os autores determinam qual era o "alvo" verificando em qual direção as datas produzem intervalos com significado calendárico.
+
+## Conexões no cofre
+
+Referência e PDF: [[Referências/Šprajc e Sánchez Nava (2013)|Šprajc e Sánchez Nava (2013)]] · [[Sprajc_Ivan_and_Pedro_Francisco_Sanchez.pdf]]. Conceitos transversais: [[Conceitos/Calendário observacional|calendário observacional]]. Argumento relacionado: [[Ensaio/maias#Castillo de Kukulcán: arquitetura, luz e hipótese calendárica|caso do Castillo]].

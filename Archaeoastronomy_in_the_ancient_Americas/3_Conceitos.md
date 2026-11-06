@@ -22,3 +22,7 @@ Esse é provavelmente o conceito mais importante do artigo. Aveni distingue, mas
 **Analogia:** pense em uma igreja com um relógio na torre. O relógio realmente serve para dizer as horas, mas a torre também tem uma função simbólica: ela domina a paisagem, marca um espaço importante e pode representar autoridade religiosa. A mesma estrutura pode ter uma função prática e outra simbólica ao mesmo tempo.
 
 É exatamente o argumento de Aveni para muitas construções antigas: elas não eram necessariamente apenas “observatórios”. Podiam marcar eventos astronômicos e, simultaneamente, servir como palco para cerimônias públicas e expressão de poder.
+
+## Conexões no cofre
+
+Referência e PDF: [[Referências/Aveni (2003)|Aveni (2003)]] · [[Archaeoastronomy_in_the_ancient_Americas.pdf]]. Conceitos transversais: [[Conceitos/Arqueoastronomia contextual|arqueoastronomia contextual]]. Argumento relacionado: [[Ensaio/maias#Marco teórico: observação da natureza, instituição e contexto cultural|marco teórico]].
