@@ -39,3 +39,11 @@ Preserve o rigor da pesquisa, mas minimize operações redundantes e consumo des
 ## Como Responder aos Pedidos
 - Sempre que eu pedir um parágrafo ou seção, apresente o rascunho e cite entre parênteses qual nota/artigo forneceu aquela evidência.
 - Se a ideia da [[Carta de Intenção.pdf|carta de intenção]] não estiver bem sustentada pelas notas do artigo fornecido, me avise para que eu saiba onde falta argumento.
+## Navegação e preservação do projeto
+
+- Leia `README.md` para o panorama e `docs/CURRENT_STATE.md` para retomar trabalho; consulte `docs/ARCHITECTURE.md` e `docs/DECISIONS.md` conforme a tarefa.
+- Use `Mapa de Conhecimento.md` como índice. Antes de escrever sobre uma fonte, consulte as notas organizadas e a matriz de evidências; abra o PDF original para validar citações, páginas e afirmações controversas.
+- `Ensaio/maias.tex` é a fonte de composição declarada; preserve-a e seus documentos científicos. `Ensaio/maias.md` serve à navegação. Não altere PDFs/fontes originais para adequá-los à narrativa.
+- Mantenha a separação entre dado material, interpretação bibliográfica e hipótese do ensaio. Preserve explicitamente incertezas, lacunas e atribuições controversas.
+- Ao concluir mudança relevante, atualize primeiro matriz/auditoria ou documentação local afetada e depois o estado atual. A memória resumida fica em `~/AI_CONTEXT/projetos/maias.md`.
+- O repositório é principalmente um cofre Markdown/Obsidian e LaTeX. Não há comando de instalação, compilação ou testes confirmado nesta documentação.

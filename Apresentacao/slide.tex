@@ -1,0 +1,254 @@
+% Apresentação acadêmica: Projeto Maia (aprox. 12 minutos)
+% Compilar com: pdflatex -interaction=nonstopmode -halt-on-error slide.tex
+\documentclass[aspectratio=169,11pt]{beamer}
+
+% --- Pacotes e identidade visual ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazilian]{babel}
+\usepackage{lmodern}
+\usepackage{booktabs}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning,shapes.geometric}
+\usetheme{Boadilla}
+\definecolor{mayaInk}{HTML}{17323A}
+\definecolor{mayaJade}{HTML}{167C72}
+\definecolor{mayaGold}{HTML}{D39A36}
+\definecolor{mayaSand}{HTML}{F4F0E7}
+\setbeamercolor{normal text}{fg=mayaInk,bg=white}
+\setbeamercolor{alerted text}{fg=mayaJade}
+\setbeamercolor{progress bar}{fg=mayaGold,bg=mayaSand}
+\setbeamercolor{frametitle}{fg=mayaInk,bg=white}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{caption}[numbered]
+\setbeamerfont{footnote}{size=\tiny}
+
+\newcommand{\source}[1]{\vfill{\tiny\color{mayaInk!70}#1}}
+\newcommand{\minutes}[1]{\hfill{\scriptsize\color{mayaJade}#1}}
+
+\title{A Ciência do Sagrado e a Estética da Exatidão}
+\subtitle{Observação da natureza e expressão artística na sociedade maia}
+\author{Carlos E. L. Pereira \and David F. Oliveira}
+\institute{IMPA Tech — Rio de Janeiro}
+\date{}
+
+\begin{document}
+
+% --- 1. Abertura ---
+\begin{frame}[plain]
+  \titlepage
+  \vspace{-0.5cm}
+  \begin{center}
+    \small Como compreender relações entre práticas hoje chamadas arte e ciência sem projetar categorias modernas?
+  \end{center}
+  \source{Questão orientadora: \textit{maias.tex}, Introdução; Carta de Intenção.}
+\end{frame}
+
+% --- 2. Problema historiográfico ---
+\begin{frame}{As categorias modernas são ponto de partida, não resposta}\minutes{1 min}
+  \begin{columns}[T,onlytextwidth]
+    \column{.53\textwidth}
+      \begin{itemize}
+        \item “Arte”, “ciência” e “religião” organizam nosso olhar atual.
+        \item Projetá-las como esferas universais pode distorcer práticas históricas.
+        \item A análise distingue \textbf{evidência}, \textbf{interpretação} e \textbf{hipótese}.
+      \end{itemize}
+    \column{.43\textwidth}
+      \centering
+      \begin{tikzpicture}[node distance=8mm, every node/.style={draw,rounded corners,align=center,minimum width=3.5cm,minimum height=8mm,font=\small}]
+        \node[fill=mayaSand,draw=mayaGold] (e) {Evidência material ou documental};
+        \node[fill=mayaSand,draw=mayaJade,below=of e] (i) {Interpretação contextual};
+        \node[fill=white,draw=mayaInk,dashed,below=of i] (h) {Hipótese ainda debatida};
+        \draw[-{Stealth},thick, mayaInk] (e)--(i);
+        \draw[-{Stealth},thick, mayaInk] (i)--(h);
+      \end{tikzpicture}
+  \end{columns}
+  \source{Ensaio, Introdução; Diagnóstico da Carta; Matriz de Evidências.}
+\end{frame}
+
+% --- 3. Referencial ---
+\begin{frame}{Observar a natureza exige contexto histórico}\minutes{1 min 15 s}
+  \begin{columns}[T,onlytextwidth]
+    \column{.32\textwidth}
+      \textcolor{mayaJade}{\Large\textbf{Broda}}\\
+      Observação sistemática e repetida; marco mesoamericano amplo, não prova direta para cada caso maia.
+    \column{.32\textwidth}
+      \textcolor{mayaJade}{\Large\textbf{Aveni}}\\
+      Arqueoastronomia contextual: considerar funções práticas e performativas em conjunto.
+    \column{.32\textwidth}
+      \textcolor{mayaJade}{\Large\textbf{Imbricação}}\\
+      Funções rituais, políticas e comunicativas podiam se articular; cada vínculo requer evidência própria.
+  \end{columns}
+  \vspace{7mm}
+  \begin{center}\small\color{mayaInk!75}O referencial orienta perguntas; os estudos específicos sustentam respostas sobre cada objeto.\end{center}
+  \source{Broda (2012, pp. 106–107); Aveni (2003, p. 175); Conceitos: Observação da natureza, Arqueoastronomia contextual e Polivalência funcional.}
+\end{frame}
+
+% --- 4. Tese e método comparativo ---
+\begin{frame}{Três objetos, relações distintas entre conhecer e expressar}\minutes{1 min}
+  \centering
+  \begin{tikzpicture}[node distance=14mm, every node/.style={draw,rounded corners,align=center,minimum width=3.2cm,minimum height=1.1cm,font=\small}]
+    \node[fill=mayaSand,draw=mayaGold] (c) {Arquitetura\\Castillo de Kukulcán};
+    \node[fill=mayaSand,draw=mayaJade,right=of c] (d) {Notação e ciclos\\Códice de Dresden};
+    \node[fill=mayaSand,draw=mayaInk,right=of d] (b) {Imagem e escrita\\Bonampak};
+    \node[draw=none,below=12mm of d,text width=10cm] (t) {Tese: conhecimentos sobre a natureza, práticas artísticas, religião, política e rito podiam estar material e institucionalmente articulados.};
+    \draw[-{Stealth},thick] (c)--(d);
+    \draw[-{Stealth},thick] (d)--(b);
+  \end{tikzpicture}
+  \vspace{3mm}
+  \begin{alertblock}{Estética da Exatidão}
+    Categoria analítica contemporânea proposta pelo ensaio — não conceito nativo maia nem explicação única dos três casos.
+  \end{alertblock}
+  \source{Ensaio, Introdução e seção “Estética da Exatidão”; conceito no cofre.}
+\end{frame}
+
+% --- 5. Castillo: fenômeno ---
+\begin{frame}{Castillo: a arquitetura organiza um fenômeno luminoso}\minutes{1 min 40 s}
+  \begin{columns}[T,onlytextwidth]
+    \column{.48\textwidth}
+      \begin{itemize}
+        \item Na escadaria norte, luz e sombra formam triângulos associados visualmente a uma serpente.
+        \item Aveni descreve os losangos de luz no contexto arquitetônico e ritual.
+        \item O fenômeno observável permite perguntar como forma construída e experiência pública se relacionavam.
+      \end{itemize}
+    \column{.48\textwidth}
+      \centering
+      % Diagrama esquemático, não reconstrução em escala nem imagem arqueológica.
+      \begin{tikzpicture}[scale=.82]
+        \fill[ mayaSand] (-2.8,-1.7) rectangle (2.8,1.8);
+        \draw[thick,fill=mayaInk!10] (-2.4,-1.3)--(2.4,-1.3)--(1.8,-.8)--(-1.8,-.8)--cycle;
+        \foreach \y/\w in {-.75/1.8,-.25/1.5,.25/1.2,.75/.9,1.15/.6} {
+          \draw[thick,fill=white] (-\w,\y)--(\w,\y)--(\w-.2,\y+.27)--(-\w+.2,\y+.27)--cycle;
+        }
+        \foreach \y in {-.48,.02,.52,.98} {
+          \fill[mayaGold,opacity=.8] (-.18,\y)--(0,\y+.22)--(.18,\y)--cycle;
+        }
+        \node[draw=none,fill=none,font=\scriptsize,align=center] at (0,-1.55) {Diagrama esquemático da escadaria\\e das formas de luz/sombra};
+      \end{tikzpicture}
+  \end{columns}
+  \source{Aveni (2003, p. 163); Estudo de caso: Castillo. Esquema explicativo autoral, sem escala.}
+\end{frame}
+
+% --- 6. Castillo: controvérsia ---
+\begin{frame}{O efeito luminoso não fixa uma intenção equinocial}\minutes{1 min 20 s}
+  \centering
+  \begin{tikzpicture}[x=1cm,y=1cm]
+    \draw[->,thick] (0,0)--(10,0) node[right,font=\small]{dias do ano};
+    \draw[very thick,mayaGold] (1,.25)--(2.4,.25);
+    \draw[very thick,mayaGold] (5.0,.25)--(6.4,.25);
+    \draw[dashed,thick,mayaInk] (3.7,0)--(3.7,2.3);
+    \node[font=\small,align=center] at (1.7,.8) {janela de\nobservação};
+    \node[font=\small,align=center] at (5.7,.8) {janela de\nobservação};
+    \node[font=\small,align=center] at (3.7,1.8) {equinócio\n(candidato, não provado)};
+    \node[draw=none,font=\scriptsize,align=center] at (5,-.55) {Representação conceitual: o efeito ocorre em intervalo amplo; não permite determinar sozinho uma data precisa.};
+  \end{tikzpicture}
+  \vspace{2mm}
+  \begin{block}{Escala de afirmações}
+    \textbf{Fenômeno luminoso:} documentado \qquad
+    \textbf{Associação ritual:} interpretação plausível \qquad
+    \textbf{Intenção equinocial específica:} não demonstrada
+  \end{block}
+  \source{Šprajc e Sánchez Nava (2013, pp. 44–46); Matriz de Evidências. Esquema conceitual, não série de medições.}
+\end{frame}
+
+% --- 7. Códice de Dresden ---
+\begin{frame}{Dresden: registros astronômicos em forma manuscrita}\minutes{1 min 30 s}
+  \begin{columns}[T,onlytextwidth]
+    \column{.53\textwidth}
+      \begin{itemize}
+        \item O códice registra periodicidades celestes, incluindo o ciclo de Vênus e tabelas de lunações/eclipses.
+        \item Tabelas, números e imagens organizam e transmitem conhecimento calendárico.
+        \item O corpus não reconstitui todos os cálculos nem verifica a previsão local de eclipses.
+      \end{itemize}
+    \column{.43\textwidth}
+      \centering
+      % Esquema de organização tabular; não reproduz página do códice.
+      \begin{tikzpicture}[scale=.9]
+        \draw[thick,fill=mayaSand] (0,0) rectangle (4.2,3.25);
+        \draw[thick] (0,2.65)--(4.2,2.65) (0,2.0)--(4.2,2.0) (0,1.35)--(4.2,1.35) (0,.7)--(4.2,.7);
+        \draw[thick] (1.25,0)--(1.25,3.25) (2.4,0)--(2.4,3.25) (3.35,0)--(3.35,3.25);
+        \node[draw=none,font=\scriptsize] at (2.1,2.95) {sequência / tabela};
+        \foreach \x/\y in {.5/2.3,1.7/2.3,2.85/2.3,3.75/2.3,.5/1.65,1.7/1.65,2.85/1.65,3.75/1.65,.5/1,1.7/1,2.85/1,3.75/1} {
+          \fill[mayaJade] (\x,\y) circle (2pt);
+        }
+        \node[draw=none,font=\scriptsize,align=center] at (2.1,-.35) {Esquema de organização tabular;\\não é fac-símile do códice.};
+      \end{tikzpicture}
+  \end{columns}
+  \source{Aveni (2003, p. 162); Broda (2012, pp. 111, 115); Milbrath (1988, p. 67); Estudo de caso: Dresden.}
+\end{frame}
+
+% --- 8. Bonampak ---
+\begin{frame}{Bonampak: imagem e escrita constroem narrativas sociais}\minutes{1 min 25 s}
+  \begin{columns}[T,onlytextwidth]
+    \column{.47\textwidth}
+      \begin{itemize}
+        \item Murais e glifos participam da representação de ações, hierarquias e poder.
+        \item Houston e Taube ajudam a pensar escrita, percepção sensorial e expressão visual.
+        \item A associação entre cenas de guerra e Vênus é hipótese historiográfica; não demonstra um calendário mural.
+      \end{itemize}
+    \column{.5\textwidth}
+      \centering
+      % Diagrama de relações visuais, não reprodução de mural.
+      \begin{tikzpicture}[node distance=9mm, every node/.style={align=center}]
+        \draw[rounded corners,very thick,mayaInk] (0,0) rectangle (5.5,3.3);
+        \draw[thick,mayaGold] (.25,2.55)--(5.25,2.55);
+        \foreach \x/\h in {.8/1.3,1.65/1.8,2.5/1.4,3.35/2.0,4.2/1.35} {
+          \draw[thick,mayaJade,fill=mayaJade!15] (\x-.18,.35) rectangle (\x+.18,{.35+\h});
+          \draw[thick,mayaInk] (\x-.18,{.35+\h})--(\x,{.65+\h})--(\x+.18,{.35+\h});
+        }
+        \node[font=\scriptsize,fill=white] at (2.75,2.88) {escrita / glifos};
+        \node[font=\scriptsize,align=center] at (2.75,-.35) {Diagrama de composição e hierarquia visual;\\não é reprodução dos murais.};
+      \end{tikzpicture}
+  \end{columns}
+  \source{Houston e Taube (2000, pp. 275–276, fig. 9); Milbrath (1988, pp. 66–67); Estudo de caso: Bonampak.}
+\end{frame}
+
+% --- 9. Comparação ---
+\begin{frame}{A comparação sustenta articulações, não uma teoria única}\minutes{1 min 15 s}
+  \small
+  \begin{center}
+  \begin{tabular}{p{2.3cm}p{3.2cm}p{3.2cm}p{3.2cm}}
+    \toprule
+    & \textbf{Castillo} & \textbf{Dresden} & \textbf{Bonampak} \\
+    \midrule
+    Evidência focal & Luz, sombra, arquitetura & Tabelas e registros celestes & Pintura, glifos e narrativa \\
+    \addlinespace
+    Relação investigada & Espaço, observação, rito possível & Ciclos, notação, transmissão & Imagem, percepção, hierarquia \\
+    \addlinespace
+    Limite central & Intenção equinocial não provada & Previsão local não verificada & Calendário astronômico não provado \\
+    \bottomrule
+  \end{tabular}
+  \end{center}
+  \vspace{4mm}
+  \begin{alertblock}{Resultado comparativo}
+    A forma material comunica e organiza práticas distintas; a articulação entre elas deve ser demonstrada caso a caso.
+  \end{alertblock}
+  \source{Síntese do ensaio e da Matriz de Evidências; estudos de caso do cofre.}
+\end{frame}
+
+% --- 10. Conclusão ---
+\begin{frame}{A pergunta histórica desloca a fronteira moderna}\minutes{1 min}
+  \begin{enumerate}
+    \item Os casos mostram formas distintas de observar, registrar e representar o mundo.
+    \item Práticas hoje separadas como ciência, arte, religião, política e rito podiam se articular material e institucionalmente.
+    \item “Estética da Exatidão” nomeia uma ferramenta atual para investigar essas relações — sem torná-las equivalentes nem atribuí-la aos maias.
+  \end{enumerate}
+  \vspace{5mm}
+  \centering\large\color{mayaJade}\textbf{Mais do que localizar onde termina a arte e começa a ciência,\}\textbf{perguntamos como diferentes práticas se relacionavam em seu contexto.}
+  \source{Conclusão de \textit{maias.tex}; Conceitos: Polivalência funcional e Estética da Exatidão.}
+\end{frame}
+
+% --- 11. Referências essenciais ---
+\begin{frame}{Referências essenciais}\minutes{20 s}
+  \small
+  \begin{itemize}
+    \item AVENI, Anthony F. “Archaeoastronomy in the Ancient Americas”. 2003, pp. 149–191.
+    \item BRODA, Johanna. “Observación de la naturaleza y ‘ciencia’ en el México prehispánico”. 2012, pp. 102–135.
+    \item HOUSTON, Stephen; TAUBE, Karl. “An Archaeology of the Senses”. 2000, pp. 261–294.
+    \item MILBRATH, Susan. “Astronomical Images and Orientations in the Architecture of Chichen Itza”. 1988, pp. 57–82.
+    \item ŠPRAJC, Ivan; SÁNCHEZ NAVA, Pedro Francisco. “Astronomía en la arquitectura de Chichén Itzá: una reevaluación”. 2013, pp. 31–60.
+  \end{itemize}
+  \source{Dados bibliográficos conforme ao Mapa Bibliográfico e às referências de \textit{maias.tex}.}
+\end{frame}
+
+\end{document}

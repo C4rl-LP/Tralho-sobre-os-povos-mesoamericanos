@@ -11,14 +11,12 @@
             "id": "95c4c44944b31e42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Referências/Šprajc e Sánchez Nava (2013).md",
-                "mode": "source",
-                "source": false
+                "file": "Archaeoastronomy_in_the_ancient_Americas.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Šprajc e Sánchez Nava (2013)"
+              "icon": "lucide-file-text",
+              "title": "Archaeoastronomy_in_the_ancient_Americas"
             }
           },
           {
@@ -204,6 +202,24 @@
   },
   "active": "95c4c44944b31e42",
   "lastOpenFiles": [
+    "ObsNatMexAstecas.pdf",
+    "Revisão acadêmica.md",
+    "Sprajc_Ivan_and_Pedro_Francisco_Sanchez.pdf",
+    "Mapa de Conhecimento.md",
+    "Apresentacao/slide.md",
+    "Apresentacao/02_Roteiro_12min.md",
+    "Apresentacao/maias_slide.pdf",
+    "maias_slide.pdf",
+    "Ensaio/maias_slide.pdf",
+    "Ensaio/maias.pdf",
+    "Apresentacao/00_CONTEXTO_PARA_AGENTES.md",
+    "Apresentacao/slide.log",
+    "Apresentacao/slide.tex",
+    "Apresentacao/03_Slide_Sintese.md",
+    "Apresentacao/01_Proposta_de_Slides.md",
+    "Apresentacao/03_Slide_Sintese.log",
+    "Apresentacao/03_Slide_Sintese.tex",
+    "Referências/Šprajc e Sánchez Nava (2013).md",
     "Referências/Monteferrante (2012).md",
     "Referências/Milbrath (1988).md",
     "Referências/Houston e Taube (2000).md",
@@ -220,25 +236,6 @@
     "Conceitos/Arqueoastronomia contextual.md",
     "Estudos de caso/Códice de Dresden.md",
     "Archaeoastronomy_in_the_ancient_Americas/1_Triagem inicial.md",
-    "Archaeoastronomy_in_the_ancient_Americas/2_Extração de Pontos-Chave.md",
-    "Apresentacao/02_Roteiro_12min.md",
-    "Apresentacao/00_CONTEXTO_PARA_AGENTES.md",
-    "Apresentacao/01_Proposta_de_Slides.md",
-    "houston2000/3_Conceitos.md",
-    "Mapa de Conhecimento.md",
-    "Ensaio/maias.md",
-    "Apresentacao",
-    "AGENTS.md",
-    "Ensaio/missfont.log",
-    "Revisão acadêmica.md",
-    "Ensaio.md",
-    "Archaeoastronomy_in_the_ancient_Americas.pdf",
-    "Astronomical_Images_and_Orientations_in.pdf",
-    "Ensaio/maias.pdf",
-    "Ensaio/maias.aux",
-    "Ensaio/maias.log",
-    "Ensaio/maias.tex",
-    "Ensaio",
-    "houston2000.pdf"
+    "Archaeoastronomy_in_the_ancient_Americas/2_Extração de Pontos-Chave.md"
   ]
 }
